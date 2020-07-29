@@ -1,1 +1,1 @@
-def l
+def __LINE__
