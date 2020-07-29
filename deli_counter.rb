@@ -5,4 +5,6 @@ def line
 end
 
 
-def 
+def take_a_number(name, position)
+  katz_deli =#{name}
+  
