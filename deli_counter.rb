@@ -1,1 +1,1 @@
-def __LINE__
+def line
